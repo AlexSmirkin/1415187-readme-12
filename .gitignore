@@ -9,3 +9,10 @@ Thumbs.db
 vendor
 uploads/*
 !uploads/.gitkeep
+/*/_notes/*
+/_notes/*
+dwsync.xml
+*/dwsync.xml
+debug.php
+css/beauty-css.css
+js/beauty-js.js

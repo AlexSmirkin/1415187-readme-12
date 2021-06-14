@@ -1,0 +1,1 @@
+<a href='javascript:history.back()' title="Назад"><img src="../img/404.jpg" width="100%"></a>
